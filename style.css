@@ -1,35 +1,44 @@
+body {
 
-body
-/*{background-color: rgb(255, 255, 255);}*/
-{
-    background-image: url("bliss.jpg");
-    background-repeat: no-repeat;
+    background: linear-gradient(333deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 29%, rgba(0, 212, 255, 1) 100%);
     background-size: cover;
-    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
-
-h1
-{
-    
-}
-
-nav
-{
-    text-align: center
-}
-
-a
-{
-    color: blueviolet;
-}
-
-/*button
-{
-    align-items: center;
-}
-
-/*p {
-    color: red;
+#h01 {
+    color: blanchedalmond;
     text-align: center;
-  }
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+p {
+    color: rgb(255, 255, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+nav {
+    text-align: center;
+}
+
+table,
+th,
+td {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 2px;
+    border-radius: 10px;
+    border-style: solid;
+    width: 85%;
+    border-collapse: collapse;
+    padding: 15px;
+    align-items: center;
+    border-color: black;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+tr:nth-child(even) {
+    background-color: #eeeeee13;
+}
