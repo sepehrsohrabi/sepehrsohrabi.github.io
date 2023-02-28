@@ -1,0 +1,35 @@
+
+body
+/*{background-color: rgb(255, 255, 255);}*/
+{
+    background-image: url("bliss.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+
+h1
+{
+    
+}
+
+nav
+{
+    text-align: center
+}
+
+a
+{
+    color: blueviolet;
+}
+
+/*button
+{
+    align-items: center;
+}
+
+/*p {
+    color: red;
+    text-align: center;
+  }
