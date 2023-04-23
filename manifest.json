@@ -1,7 +1,7 @@
 {
   "name": "Sepehr Sohrabi",
   "short_name": "SPSR",
-  "start_url": "sepehrsohrabi.github.io",
+  "start_url": "/",
   "display": "standalone",
   "display_override": "window-controls-overlay",
   "description": "SPSR Missing Link",
