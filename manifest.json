@@ -56,9 +56,28 @@
   "prefer_related_applications": false,
   "shortcuts": [
     {
-      "name": "The name you would like to be displayed for your shortcut",
-      "url": "The url you would like to open when the user chooses this shortcut. This must be a URL local to your PWA. For example: If my start_url is /, this URL must be something like /shortcut",
-      "description": "A description of the functionality of this shortcut"
+      "name": "Linkedin",
+      "url": "https://linkedin.com/in/sepehrsohrabii"
+    },
+    {
+      "name": "Github",
+      "url": "https://github.com/sepehrsohrabi"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/sepehr_sohrabii"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://instagram.com/sepehr.sohrabii"
+    },
+    {
+      "name": "Pinterest",
+      "url": "https://pinterest.com/sepehrsohrabii/"
+    },
+    {
+      "name": "Youtube",
+      "url": "https://youtube.com/@sepehrsohrabi"
     }
   ]
 }
