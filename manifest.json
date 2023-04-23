@@ -10,9 +10,11 @@
   "theme_color": "#000b49",
   "background_color": "#000000",
   "orientation": "any",
-  "categories": ["social", "lifestyle", "business"],
-
-
+  "categories": [
+    "social",
+    "lifestyle",
+    "business"
+  ],
   "icons": [
     {
       "src": "Assests/ICON/manifest-icon-192.maskable.png",
@@ -50,34 +52,7 @@
   "related_applications": [
     {
       "platform": "windows"
-      
     }
   ],
-  "prefer_related_applications": false,
-  "shortcuts": [
-    {
-      "name": "Linkedin",
-      "url": "https://linkedin.com/in/sepehrsohrabii"
-    },
-    {
-      "name": "Github",
-      "url": "https://github.com/sepehrsohrabi"
-    },
-    {
-      "name": "Twitter",
-      "url": "https://twitter.com/sepehr_sohrabii"
-    },
-    {
-      "name": "Instagram",
-      "url": "https://instagram.com/sepehr.sohrabii"
-    },
-    {
-      "name": "Pinterest",
-      "url": "https://pinterest.com/sepehrsohrabii/"
-    },
-    {
-      "name": "Youtube",
-      "url": "https://youtube.com/@sepehrsohrabi"
-    }
-  ]
+  "shortcuts": []
 }
