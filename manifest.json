@@ -2,7 +2,8 @@
   "name": "Sepehr Sohrabi",
   "short_name": "SPSR",
   "id": "/",
-  "start_url": "/",
+  "start_url": "https://sepehrsohrabi.ir",
+  "scope": ".",
   "launch_handler": {
     "client_mode": "focus-existing"},
   "handle_links": "not-preferred",
