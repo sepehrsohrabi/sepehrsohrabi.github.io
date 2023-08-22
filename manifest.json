@@ -4,17 +4,27 @@
   "id": "/",
   "start_url": "https://sepehrsohrabi.ir",
   "scope": ".",
+  "scope_extensions": [
+    {"origin": "*.sepehrsohrabi.ir"}
+  ],
   "launch_handler": {
     "client_mode": "focus-existing"},
   "handle_links": "not-preferred",
-  "display_override": "window-controls-overlay",
   "display": "standalone",
+  "display_override": [
+    "window-controls-overlay",
+    "standalone",
+    "browser"
+  ],  
   "description": "SPSR Missing Link",
   "lang": "en-us",
   "dir": "auto",
   "theme_color": "#000b49",
   "background_color": "#000000",
   "orientation": "any",
+  "edge_side_panel": {
+    "preferred_width": 480
+  },
   "categories": [
     "social",
     "lifestyle",
