@@ -1,9 +1,13 @@
 {
   "name": "Sepehr Sohrabi",
   "short_name": "SPSR",
+  "id": "/",
   "start_url": "/",
-  "display": "standalone",
+  "launch_handler": {
+    "client_mode": "focus-existing"},
+  "handle_links": "not-preferred",
   "display_override": "window-controls-overlay",
+  "display": "standalone",
   "description": "SPSR Missing Link",
   "lang": "en-us",
   "dir": "auto",
@@ -43,7 +47,7 @@
   ],
   "screenshots": [
     {
-      "src": "Assests/IMG/screenshot.webp",
+      "src": "Assests/IMG/Screenshot.webp",
       "sizes": "1280x720",
       "type": "image/png",
       "description": "SPSR Missing Link"
@@ -53,6 +57,5 @@
     {
       "platform": "windows"
     }
-  ],
-  "shortcuts": []
+  ]
 }
